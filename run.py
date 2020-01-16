@@ -1,5 +1,4 @@
 import sys
-import ast
 import json
 
 def recurse(d, allStrings, currentString=list()):
